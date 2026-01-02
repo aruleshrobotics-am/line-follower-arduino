@@ -1,4 +1,4 @@
-#line-follower-arduino
+# line-follower-arduino
 This project demonstrates a basic line-following robot built and simulated in Tinkercad using an Arduino Uno, two IR sensors, and an L293D motor driver.
 
 The robot uses differential motor speed control to follow a line:
